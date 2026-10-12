@@ -1,0 +1,6 @@
+{
+  "name": "طمأنينة",
+  "description": "تطبيق إسلامي روحي شامل وفق مذهب أهل البيت (ع) يضم القرآن الكريم، الأدعية، المناجاة، الزيارات، الأذكار، المسبحة الإلكترونية، والمجيب الفقهي الذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
